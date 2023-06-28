@@ -1,4 +1,4 @@
-from flask_restplus import fields
+from flask_restx import fields
 
 from apps.api.profile.controllers import member_api
 

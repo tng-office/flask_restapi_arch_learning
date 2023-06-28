@@ -1,4 +1,4 @@
-from flask_restplus import Resource
+from flask_restx import Resource
 
 from apps.api.profile.controllers import search_api as api
 

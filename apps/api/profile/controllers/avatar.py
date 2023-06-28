@@ -1,4 +1,4 @@
-from flask_restplus import Resource
+from flask_restx import Resource
 
 from apps.api.profile.controllers import avatar_api as api
 

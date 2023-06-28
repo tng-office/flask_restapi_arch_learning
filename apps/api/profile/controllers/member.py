@@ -1,4 +1,4 @@
-from flask_restplus import Resource
+from flask_restx import Resource
 from injector import inject
 
 from apps.api.profile.adapters.presenters.profile_presenter import GetUserProfilePresenter
